@@ -2,6 +2,6 @@
 
 ## WZU Routing and Swithcing 26sp
 ### 包含
-1. 7次实验
+1. 9次实验
 
 ## 仅供参考 学习交流 严禁抄袭
